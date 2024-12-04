@@ -7,12 +7,15 @@ import Footer from './components/footer/Footer';
 
 const App = () => {
 
+
+
     return (
       <main>
       <Hero />
       <Services />
       <Banner />
       <Subscribe />
+      <Footer />
       <Footer />
       </main>
     );

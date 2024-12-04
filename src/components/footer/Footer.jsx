@@ -5,6 +5,8 @@ import { FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 import {motion} from "framer-motion";
 const Footer = () => {
+
+    
     return (
         <footer className="bg-[#f7f7f7]  py-8">
             <motion.div 

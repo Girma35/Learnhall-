@@ -11,6 +11,8 @@ const bgStyle = {
     backgroundPosition: 'center',
 };
 
+
+
 const Subscribe = () => {
     return (
         <section className="bg-[#f7f7f7]">
@@ -57,5 +59,8 @@ const Subscribe = () => {
         </section>
     );
 };
+
+
+
 
 export default Subscribe;

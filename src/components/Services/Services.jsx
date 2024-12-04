@@ -7,12 +7,11 @@ import { SiGooglemarketingplatform } from "react-icons/si";
 import { MdSentimentVerySatisfied } from "react-icons/md";
 import { motion } from "framer-motion";
 
-
 const SlideLeft = (delay) => {
     return {
         initial: {
             opacity: 0,
-            x: 50
+            x: 500px
         },
         animate: {
             opacity: 1,
@@ -25,6 +24,7 @@ const SlideLeft = (delay) => {
         }
     }
 }
+
 
 
 

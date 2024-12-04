@@ -5,6 +5,9 @@ import Blob from '../../assets/blob.svg';
 import HeroPng from '../../assets/HeroPng.png';
 import { motion } from "framer-motion";
 
+
+
+
 export const FadeUp = (delay) => {
   return {
     initial: {

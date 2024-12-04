@@ -5,11 +5,8 @@ import { MdOutlineAccessTime } from "react-icons/md";
 import { FadeUp } from '../hero/Hero';
 import {motion} from "framer-motion";
 
-{/*  
-     />
- />
-    
-    */}
+
+
 
 
     const Banner = () => {
