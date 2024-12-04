@@ -4,7 +4,10 @@
 [![Vite](https://img.shields.io/badge/Vite-v2.5.4-green)](https://vitejs.dev/)
 [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-v4.1.17-red)](https://www.framer.com/motion/)
 
-Welcome to the LearnHall Learning Center web application. This project provides a platform for tech learning and writing services, built with React, Vite, and Framer Motion.
+Welcome to the LearnHall Learning Center web application. 
+
+
+This project provides a platform for tech learning and writing services, built with React, Vite, and Framer Motion.
 
 ## Table of Contents
 
@@ -120,6 +123,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Girma Wakeyo Darbeto - [LinkedIn](https://www.linkedin.com/in/girma-w-a16429263) - [Twitter](https://twitter.com/Girma880731631) - Girmawakeyo4@gmail.com
-
-Project Link: [https://github.com/yourusername/learnhall](https://github.com/yourusername/learnhall)
 
